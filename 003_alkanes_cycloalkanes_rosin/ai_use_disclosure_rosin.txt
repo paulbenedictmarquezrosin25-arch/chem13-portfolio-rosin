@@ -1,0 +1,2 @@
+﻿AI Disclosure
+The website The Alkane was utilized as an interactive tool to construct the chemical compound and determine its corresponding IUPAC name. It assisted in visualizing the molecular structure and verifying the correct systematic nomenclature of the built compound. The website was used solely as a reference and verification tool to support the accuracy of the compound's identification.
